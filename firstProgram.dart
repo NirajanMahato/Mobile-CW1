@@ -1,8 +1,8 @@
 void main(){
-  var a = 20;
-  var b = 30;
+  int a = 20;
+  int b = 30;
 
-  var sum = a+b;
+  int sum = a+b;
 
   print("The sun is $sum");
 }
